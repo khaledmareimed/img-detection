@@ -1,0 +1,5 @@
+Scene,Object,Method,IoU,Localization Error,Confidence,Time (ms),Detected,BBox X,BBox Y,BBox W,BBox H
+Scene_book,Object_book,Hybrid (Histogram + Edge),1.0000,0.0,0.8850,217.4,True,72,230,540,470
+Scene_book,object_book_o,Hybrid (Histogram + Edge),1.0000,0.0,0.8850,259.8,True,72,230,540,470
+Scene_usb,Object_usb,Hybrid (Neutral + Edge),1.0000,0.0,0.6833,57.2,True,460,325,180,100
+Scene_usb,object_usb_o,Hybrid (Neutral + Edge),1.0000,0.0,0.6833,35.9,True,460,325,180,100

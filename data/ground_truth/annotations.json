@@ -1,0 +1,10 @@
+{
+  "Scene_usb": {
+    "Object_usb": [460, 325, 180, 100],
+    "object_usb_o": [460, 325, 180, 100]
+  },
+  "Scene_book": {
+    "Object_book": [72, 230, 540, 470],
+    "object_book_o": [72, 230, 540, 470]
+  }
+}
